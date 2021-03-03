@@ -10733,3 +10733,36 @@
 03-03-2021 14:45:56.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} a {} ara"  parameterizedStepValue:"*<search> a <msi> ara"  parameters:"search"  parameters:"msi"}}
 03-03-2021 14:45:56.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"liste\" icinde \"MSI GF65 CORE İ7 9750H\" sec"}
 03-03-2021 14:45:56.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} icinde {} sec"  parameterizedStepValue:"*<liste> icinde <MSI GF65 CORE İ7 9750H> sec"  parameters:"liste"  parameters:"MSI GF65 CORE İ7 9750H"}}
+03-03-2021 15:04:27.261 [Gauge] [INFO] Watching directory: /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs
+03-03-2021 15:04:27.262 [Gauge] [DEBUG] Found 2 files
+03-03-2021 15:04:27.262 [Gauge] [INFO] Watching directory: /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/concepts
+03-03-2021 15:04:27.262 [Gauge] [DEBUG] Found 1 files
+03-03-2021 15:04:27.262 [Gauge] [INFO] Initializing concepts cache with 4 concepts
+03-03-2021 15:04:27.262 [Gauge] [DEBUG] Adding concepts from /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/concepts/homePage.cpt
+03-03-2021 15:04:27.262 [Gauge] [DEBUG] Adding concepts from /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/concepts/homePage.cpt
+03-03-2021 15:04:27.262 [Gauge] [DEBUG] Adding concepts from /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/concepts/homePage.cpt
+03-03-2021 15:04:27.262 [Gauge] [DEBUG] Adding concepts from /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/concepts/homePage.cpt
+03-03-2021 15:04:27.263 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-03-2021 15:04:27.263 [Gauge] [DEBUG] Adding specs from /Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/homePage.spec
+03-03-2021 15:04:27.263 [Gauge] [INFO] Initializing steps cache with 2 steps
+03-03-2021 15:04:27.263 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53541
+03-03-2021 15:04:34.028 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ana sayfa git"}
+03-03-2021 15:04:34.029 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ana sayfa git"  parameterizedStepValue:"Ana sayfa git"}}
+03-03-2021 15:04:34.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> kontrol et"}
+03-03-2021 15:04:34.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} kontrol et"  parameterizedStepValue:"<element> kontrol et"  parameters:"element"}}
+03-03-2021 15:04:34.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<sec> sn. saniye bekle"}
+03-03-2021 15:04:34.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<sec> sn. saniye bekle"  parameters:"sec"}}
+03-03-2021 15:04:34.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> butonuna tikla"}
+03-03-2021 15:04:34.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<element> butonuna tikla"  parameters:"element"}}
+03-03-2021 15:04:34.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> alanini <input>'la doldur"}
+03-03-2021 15:04:34.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<element> alanini <input>'la doldur"  parameters:"element"  parameters:"input"}}
+03-03-2021 15:04:34.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<input> a <inputValue> ara"}
+03-03-2021 15:04:34.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<input> a <inputValue> ara"  parameters:"input"  parameters:"inputValue"}}
+03-03-2021 15:04:34.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<liste> icinde <urun> sec"}
+03-03-2021 15:04:34.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <urun> sec"  parameters:"liste"  parameters:"urun"}}
+03-03-2021 15:04:34.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Login islemini gerceklestir"}
+03-03-2021 15:04:34.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Login islemini gerceklestir"  parameterizedStepValue:"Login islemini gerceklestir"}}
+03-03-2021 15:04:34.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Iphone ekle"}
+03-03-2021 15:04:34.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Iphone ekle"  parameterizedStepValue:"Sepete Iphone ekle"}}
+03-03-2021 15:04:34.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Msi Bilgisayar ekle"}
+03-03-2021 15:04:34.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Msi Bilgisayar ekle"  parameterizedStepValue:"Sepete Msi Bilgisayar ekle"}}
