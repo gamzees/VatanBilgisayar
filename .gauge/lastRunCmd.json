@@ -1,8 +1,8 @@
 [
-	"/opt/homebrew/bin/gauge",
+	"C:\\Program Files\\gauge\\bin\\gauge.exe",
 	"run",
 	"--machine-readable",
 	"--hide-suggestion",
 	"--simple-console",
-	"/Users/gamzetaskin/Documents/TestRepo/VatanBilgisayar/specs/homePage.spec"
+	"C:/Users/Yusuf-Testinium/Documents/VatanBilgisayar/specs/homePage.spec"
 ]

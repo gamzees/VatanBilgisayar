@@ -10766,3 +10766,587 @@
 03-03-2021 15:04:34.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Iphone ekle"  parameterizedStepValue:"Sepete Iphone ekle"}}
 03-03-2021 15:04:34.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Msi Bilgisayar ekle"}
 03-03-2021 15:04:34.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Msi Bilgisayar ekle"  parameterizedStepValue:"Sepete Msi Bilgisayar ekle"}}
+03-03-2021 15:12:20.188 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs
+03-03-2021 15:12:20.189 [Gauge] [DEBUG] Found 2 files
+03-03-2021 15:12:20.189 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts
+03-03-2021 15:12:20.189 [Gauge] [DEBUG] Found 1 files
+03-03-2021 15:12:20.195 [Gauge] [INFO] Initializing concepts cache with 4 concepts
+03-03-2021 15:12:20.195 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:12:20.195 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:12:20.195 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:12:20.195 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:12:20.196 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-03-2021 15:12:20.196 [Gauge] [DEBUG] Adding specs from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\homePage.spec
+03-03-2021 15:12:20.196 [Gauge] [INFO] Initializing steps cache with 2 steps
+03-03-2021 15:12:20.196 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52486
+03-03-2021 15:26:36.265 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"logo\" kontrol et"}
+03-03-2021 15:26:36.265 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} kontrol et"  parameterizedStepValue:"<logo> kontrol et"  parameters:"logo"}}
+03-03-2021 15:26:36.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> kontrol et"}
+03-03-2021 15:26:36.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} kontrol et"  parameterizedStepValue:"<element> kontrol et"  parameters:"element"}}
+03-03-2021 15:26:36.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"2\" sn. saniye bekle"}
+03-03-2021 15:26:36.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<2> sn. saniye bekle"  parameters:"2"}}
+03-03-2021 15:26:36.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<sec> sn. saniye bekle"}
+03-03-2021 15:26:36.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<sec> sn. saniye bekle"  parameters:"sec"}}
+03-03-2021 15:26:36.397 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"girisYap\" butonuna tikla"}
+03-03-2021 15:26:36.397 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<girisYap> butonuna tikla"  parameters:"girisYap"}}
+03-03-2021 15:26:36.397 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> butonuna tikla"}
+03-03-2021 15:26:36.397 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<element> butonuna tikla"  parameters:"element"}}
+03-03-2021 15:26:36.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"girisYapAlt\" butonuna tikla"}
+03-03-2021 15:26:36.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<girisYapAlt> butonuna tikla"  parameters:"girisYapAlt"}}
+03-03-2021 15:26:36.402 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"email\" alanini \"gamzeetskn@gmail.com\"'la doldur"}
+03-03-2021 15:26:36.402 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<email> alanini <gamzeetskn@gmail.com>'la doldur"  parameters:"email"  parameters:"gamzeetskn@gmail.com"}}
+03-03-2021 15:26:36.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> alanini <input>'la doldur"}
+03-03-2021 15:26:36.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<element> alanini <input>'la doldur"  parameters:"element"  parameters:"input"}}
+03-03-2021 15:26:36.404 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"password\" alanini \"gamze1234.\"'la doldur"}
+03-03-2021 15:26:36.404 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<password> alanini <gamze1234.>'la doldur"  parameters:"password"  parameters:"gamze1234."}}
+03-03-2021 15:26:36.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"girisYapButon\" butonuna tikla"}
+03-03-2021 15:26:36.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<girisYapButon> butonuna tikla"  parameters:"girisYapButon"}}
+03-03-2021 15:26:36.407 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"1\" sn. saniye bekle"}
+03-03-2021 15:26:36.408 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<1> sn. saniye bekle"  parameters:"1"}}
+03-03-2021 15:26:36.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"search\" a \"iphone\" ara"}
+03-03-2021 15:26:36.409 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<search> a <iphone> ara"  parameters:"search"  parameters:"iphone"}}
+03-03-2021 15:26:36.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<input> a <inputValue> ara"}
+03-03-2021 15:26:36.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<input> a <inputValue> ara"  parameters:"input"  parameters:"inputValue"}}
+03-03-2021 15:26:36.412 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"liste\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:36.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"liste"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:36.413 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<liste> icinde <urun> sec"}
+03-03-2021 15:26:36.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <urun> sec"  parameters:"liste"  parameters:"urun"}}
+03-03-2021 15:26:36.415 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"hafiza\" butonuna tikla"}
+03-03-2021 15:26:36.415 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<hafiza> butonuna tikla"  parameters:"hafiza"}}
+03-03-2021 15:26:36.417 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"renk\" butonuna tikla"}
+03-03-2021 15:26:36.417 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<renk> butonuna tikla"  parameters:"renk"}}
+03-03-2021 15:26:36.418 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"sepeteEkle\" butonuna tikla"}
+03-03-2021 15:26:36.418 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<sepeteEkle> butonuna tikla"  parameters:"sepeteEkle"}}
+03-03-2021 15:26:36.422 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"search\" a \"msi\" ara"}
+03-03-2021 15:26:36.422 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<search> a <msi> ara"  parameters:"search"  parameters:"msi"}}
+03-03-2021 15:26:36.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"liste\" icinde \"MSI GF65 CORE İ7 9750H\" sec"}
+03-03-2021 15:26:36.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <MSI GF65 CORE İ7 9750H> sec"  parameters:"liste"  parameters:"MSI GF65 CORE İ7 9750H"}}
+03-03-2021 15:26:56.932 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"s\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:56.932 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<s> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"s"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:57.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"se\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:57.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<se> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"se"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:57.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"sec\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:57.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<sec> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"sec"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:57.373 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"sece\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:57.373 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<sece> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"sece"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:57.583 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secen\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:57.583 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secen> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"secen"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:57.730 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secene\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:57.730 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secene> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"secene"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:26:58.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:26:58.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"secenek"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:27:32.999 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:27:33.000 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:27:50.796 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Y\" sec"}
+03-03-2021 15:27:50.797 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Y> sec"  parameters:"secenek"  parameters:"Y"}}
+03-03-2021 15:27:50.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Ye\" sec"}
+03-03-2021 15:27:50.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Ye> sec"  parameters:"secenek"  parameters:"Ye"}}
+03-03-2021 15:27:51.093 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Yeş\" sec"}
+03-03-2021 15:27:51.093 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Yeş> sec"  parameters:"secenek"  parameters:"Yeş"}}
+03-03-2021 15:27:51.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Yeşi\" sec"}
+03-03-2021 15:27:51.248 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Yeşi> sec"  parameters:"secenek"  parameters:"Yeşi"}}
+03-03-2021 15:27:51.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Yeşil\" sec"}
+03-03-2021 15:27:51.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Yeşil> sec"  parameters:"secenek"  parameters:"Yeşil"}}
+03-03-2021 15:27:52.432 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:27:52.433 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:28:00.571 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"\" sec"}
+03-03-2021 15:28:00.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <> sec"  parameters:"secenek"  parameters:""}}
+03-03-2021 15:28:01.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"2\" sec"}
+03-03-2021 15:28:01.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <2> sec"  parameters:"secenek"  parameters:"2"}}
+03-03-2021 15:28:01.273 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"25\" sec"}
+03-03-2021 15:28:01.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <25> sec"  parameters:"secenek"  parameters:"25"}}
+03-03-2021 15:28:01.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"256\" sec"}
+03-03-2021 15:28:01.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <256> sec"  parameters:"secenek"  parameters:"256"}}
+03-03-2021 15:28:01.689 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"256 \" sec"}
+03-03-2021 15:28:01.690 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <256 > sec"  parameters:"secenek"  parameters:"256 "}}
+03-03-2021 15:28:02.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"256 G\" sec"}
+03-03-2021 15:28:02.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <256 G> sec"  parameters:"secenek"  parameters:"256 G"}}
+03-03-2021 15:28:02.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"256 GB\" sec"}
+03-03-2021 15:28:02.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <256 GB> sec"  parameters:"secenek"  parameters:"256 GB"}}
+03-03-2021 15:28:02.833 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:28:02.835 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:28:08.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.307 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.312 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.312 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ana sayfa git"}
+03-03-2021 15:28:08.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ana sayfa git"  parameterizedStepValue:"Ana sayfa git"}}
+03-03-2021 15:28:08.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.359 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Login islemini gerceklestir"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Login islemini gerceklestir"  parameterizedStepValue:"Login islemini gerceklestir"}}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Iphone ekle"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Iphone ekle"  parameterizedStepValue:"Sepete Iphone ekle"}}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Msi Bilgisayar ekle"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Msi Bilgisayar ekle"  parameterizedStepValue:"Sepete Msi Bilgisayar ekle"}}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.361 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.361 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.376 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.377 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.377 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.394 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.394 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.394 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.395 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.395 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.395 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.409 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.628 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.628 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.636 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.637 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.653 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.654 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.655 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.655 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.667 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.667 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.668 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.669 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:08.682 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.574 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.574 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.575 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.575 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.587 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.587 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.587 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.587 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.587 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.588 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.597 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.597 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.598 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.598 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.598 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.599 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.599 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.607 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.608 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.617 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.617 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.618 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.618 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.618 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.618 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.725 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.725 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.725 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.725 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.734 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.735 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.735 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.743 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.745 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.754 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.754 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.754 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.755 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.755 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.755 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.755 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.755 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.755 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.766 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.766 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.766 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.767 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.878 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.878 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.879 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.888 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.889 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.889 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.898 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.898 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.898 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.899 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.899 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.899 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.899 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.900 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.908 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.910 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:09.918 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.040 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.040 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.040 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.040 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.049 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.050 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.058 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.059 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.059 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.059 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.059 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.071 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.071 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.071 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.080 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.185 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.185 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.193 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.193 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.194 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.203 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.204 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.204 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.212 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.213 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.222 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.336 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.337 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.337 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.345 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.345 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.345 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.345 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.345 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.345 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.346 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.346 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.346 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.357 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.357 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.357 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.358 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.358 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.358 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.358 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.358 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.358 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.367 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.368 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.368 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.376 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.376 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.377 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.377 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.649 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.649 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.658 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.659 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.660 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.660 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.669 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.670 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.670 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \""}
+03-03-2021 15:28:10.680 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+03-03-2021 15:28:17.015 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Yel\" sec"}
+03-03-2021 15:28:17.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Yel> sec"  parameters:"secenek"  parameters:"Yel"}}
+03-03-2021 15:31:30.800 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:31:30.802 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:31:52.233 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs
+03-03-2021 15:31:52.233 [Gauge] [DEBUG] Found 2 files
+03-03-2021 15:31:52.234 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts
+03-03-2021 15:31:52.234 [Gauge] [DEBUG] Found 1 files
+03-03-2021 15:31:52.239 [Gauge] [INFO] Initializing concepts cache with 4 concepts
+03-03-2021 15:31:52.239 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:31:52.239 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:31:52.239 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:31:52.239 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+03-03-2021 15:31:52.240 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-03-2021 15:31:52.240 [Gauge] [DEBUG] Adding specs from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\homePage.spec
+03-03-2021 15:31:52.240 [Gauge] [INFO] Initializing steps cache with 2 steps
+03-03-2021 15:31:52.240 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53705
+03-03-2021 15:31:55.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"logo\" kontrol et"}
+03-03-2021 15:31:55.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} kontrol et"  parameterizedStepValue:"<logo> kontrol et"  parameters:"logo"}}
+03-03-2021 15:31:55.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> kontrol et"}
+03-03-2021 15:31:55.734 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} kontrol et"  parameterizedStepValue:"<element> kontrol et"  parameters:"element"}}
+03-03-2021 15:31:55.772 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"2\" sn. saniye bekle"}
+03-03-2021 15:31:55.772 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<2> sn. saniye bekle"  parameters:"2"}}
+03-03-2021 15:31:55.774 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<sec> sn. saniye bekle"}
+03-03-2021 15:31:55.774 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<sec> sn. saniye bekle"  parameters:"sec"}}
+03-03-2021 15:31:55.777 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"girisYap\" butonuna tikla"}
+03-03-2021 15:31:55.777 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<girisYap> butonuna tikla"  parameters:"girisYap"}}
+03-03-2021 15:31:55.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> butonuna tikla"}
+03-03-2021 15:31:55.778 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<element> butonuna tikla"  parameters:"element"}}
+03-03-2021 15:31:55.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"girisYapAlt\" butonuna tikla"}
+03-03-2021 15:31:55.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<girisYapAlt> butonuna tikla"  parameters:"girisYapAlt"}}
+03-03-2021 15:31:55.785 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"email\" alanini \"gamzeetskn@gmail.com\"'la doldur"}
+03-03-2021 15:31:55.785 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<email> alanini <gamzeetskn@gmail.com>'la doldur"  parameters:"email"  parameters:"gamzeetskn@gmail.com"}}
+03-03-2021 15:31:55.787 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<element> alanini <input>'la doldur"}
+03-03-2021 15:31:55.787 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<element> alanini <input>'la doldur"  parameters:"element"  parameters:"input"}}
+03-03-2021 15:31:55.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"password\" alanini \"gamze1234.\"'la doldur"}
+03-03-2021 15:31:55.789 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} alanini {}'la doldur"  parameterizedStepValue:"<password> alanini <gamze1234.>'la doldur"  parameters:"password"  parameters:"gamze1234."}}
+03-03-2021 15:31:55.792 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"girisYapButon\" butonuna tikla"}
+03-03-2021 15:31:55.793 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<girisYapButon> butonuna tikla"  parameters:"girisYapButon"}}
+03-03-2021 15:31:55.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"1\" sn. saniye bekle"}
+03-03-2021 15:31:55.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sn. saniye bekle"  parameterizedStepValue:"<1> sn. saniye bekle"  parameters:"1"}}
+03-03-2021 15:31:55.797 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"search\" a \"iphone\" ara"}
+03-03-2021 15:31:55.797 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<search> a <iphone> ara"  parameters:"search"  parameters:"iphone"}}
+03-03-2021 15:31:55.798 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<input> a <inputValue> ara"}
+03-03-2021 15:31:55.798 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<input> a <inputValue> ara"  parameters:"input"  parameters:"inputValue"}}
+03-03-2021 15:31:55.808 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"liste\" icinde \"iPhone 11 128 GB AKILLI TELEFON BEYAZ\" sec"}
+03-03-2021 15:31:55.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <iPhone 11 128 GB AKILLI TELEFON BEYAZ> sec"  parameters:"liste"  parameters:"iPhone 11 128 GB AKILLI TELEFON BEYAZ"}}
+03-03-2021 15:31:55.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<liste> icinde <urun> sec"}
+03-03-2021 15:31:55.810 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <urun> sec"  parameters:"liste"  parameters:"urun"}}
+03-03-2021 15:31:55.813 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"256 GB\" sec"}
+03-03-2021 15:31:55.813 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <256 GB> sec"  parameters:"secenek"  parameters:"256 GB"}}
+03-03-2021 15:31:55.817 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"secenek\" icinde \"Yeşil\" sec"}
+03-03-2021 15:31:55.817 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<secenek> icinde <Yeşil> sec"  parameters:"secenek"  parameters:"Yeşil"}}
+03-03-2021 15:31:55.818 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"sepeteEkle\" butonuna tikla"}
+03-03-2021 15:31:55.818 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} butonuna tikla"  parameterizedStepValue:"<sepeteEkle> butonuna tikla"  parameters:"sepeteEkle"}}
+03-03-2021 15:31:55.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"search\" a \"msi\" ara"}
+03-03-2021 15:31:55.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} a {} ara"  parameterizedStepValue:"<search> a <msi> ara"  parameters:"search"  parameters:"msi"}}
+03-03-2021 15:31:55.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"liste\" icinde \"MSI GF65 CORE İ7 9750H\" sec"}
+03-03-2021 15:31:55.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} icinde {} sec"  parameterizedStepValue:"<liste> icinde <MSI GF65 CORE İ7 9750H> sec"  parameters:"liste"  parameters:"MSI GF65 CORE İ7 9750H"}}
+03-03-2021 15:32:07.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ana sayfa git"}
+03-03-2021 15:32:07.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ana sayfa git"  parameterizedStepValue:"Ana sayfa git"}}
+03-03-2021 15:32:07.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Login islemini gerceklestir"}
+03-03-2021 15:32:07.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Login islemini gerceklestir"  parameterizedStepValue:"Login islemini gerceklestir"}}
+03-03-2021 15:32:07.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Iphone ekle"}
+03-03-2021 15:32:07.291 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Iphone ekle"  parameterizedStepValue:"Sepete Iphone ekle"}}
+03-03-2021 15:32:07.327 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sepete Msi Bilgisayar ekle"}
+03-03-2021 15:32:07.328 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Msi Bilgisayar ekle"  parameterizedStepValue:"Sepete Msi Bilgisayar ekle"}}

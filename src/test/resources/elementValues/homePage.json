@@ -1,72 +1,67 @@
 [
   {
     "key": "logo",
-    "value": "//*[@alt='Vatan Bilgisayar']",
-    "type": "xpath"
+    "value": "[alt='Vatan Bilgisayar']",
+    "type": "css"
   },
   {
     "key": "girisYap",
-    "value": "//*[@id='btnMyAccount']",
-    "type": "xpath"
+    "value": "[id='btnMyAccount']",
+    "type": "css"
   },
   {
     "key": "girisYapAlt",
-    "value": "//*[contains(text(), 'Giriş Yap')]",
-    "type": "xpath"
+    "value": "[class*='dropdown'] [href*='signin']",
+    "type": "css"
   },
   {
     "key": "email",
-    "value": "//*[@id='email']",
-    "type": "xpath"
+    "value": "[id='email']",
+    "type": "css"
   },
   {
     "key": "password",
-    "value": "//*[@id='pass']",
-    "type": "xpath"
+    "value": "[id='pass']",
+    "type": "css"
   },
   {
     "key": "girisYapButon",
-    "value": "//*[@id='login-button']",
-    "type": "xpath"
+    "value": "[id='login-button']",
+    "type": "css"
   },
   {
     "key": "search",
-    "value": "//*[@id='navbar-search-input']",
-    "type": "xpath"
+    "value": "[id='navbar-search-input']",
+    "type": "css"
   },
   {
     "key": "liste",
-    "value": "//div[@class='product-list__product-name']",
-    "type": "xpath"
+    "value": "[class='product-list__product-name']",
+    "type": "css"
   },
   {
     "key": "sepeteEkle",
-    "value": "//*[@id='add-to-cart-button']",
-    "type": "xpath"
+    "value": "[id='add-to-cart-button']",
+    "type": "css"
   },
   {
-    "key": "hafiza",
-    "value": "//*[@data-value='256 GB']",
-    "type": "xpath"
+    "key": "secenek",
+    "value": "[class*='btn btn-choose-option']",
+    "type": "css"
   },
   {
-    "key": "renk",
-    "value": "//*[@data-value='Yeşil']",
-    "type": "xpath"
-  },
-  {
-    "key": "kapaButonu",
-    "value": "//*[@class='fancybox-button fancybox-close-small']",
-    "type": "xpath"
+    "key": "alisVerisDon",
+    "value": "[class='fancybox-button fancybox-close-small']",
+    "type": "css"
   },
   {
     "key": "sepeteGit",
-    "value": "//*[@class='btn-basket--text']",
-    "type": "xpath"
+    "value": "[class='btn-basket--text']",
+    "type": "css"
   },
   {
     "key": "sepetiOnayla",
-    "value": "//*[@class='icon-angle-right']",
-    "type": "xpath"
+    "value": "[class='icon-angle-right']",
+    "type": "css"
   }
 ]
