@@ -18,33 +18,18 @@ public class BrowserExec {
         DesiredCapabilities desiredCapabilities = DesiredCapabilities.chrome();
         desiredCapabilities.setJavascriptEnabled(true);
         desiredCapabilities.setBrowserName(browserName);
-
         selectOS();
-
         driver = new ChromeDriver();
         return driver;
     }
 
     public static void selectOS(){
 
-     /*  boolean isOSMAC = getOperatingSystem().contains(osString);
-        if(isOSMAC)
-        {
-            System.setProperty(BaseTest.configProp.getString("chromePath"),
-                    BaseTest.configProp.getString("chromeDriverPathMac"));
-        }
-        else
-        {
-            System.setProperty(BaseTest.configProp.getString("chromePath"),
-                    BaseTest.configProp.getString("chromeDriverPath"));
-        }*/
-
         if (getOperatingSystem().contains(osString))
         {
             System.setProperty(BaseTest.configProp.getString("chromePath"),
                     BaseTest.configProp.getString("chromeDriverPathMac"));
-        }
-        else
+        }else
         {
             System.setProperty(BaseTest.configProp.getString("chromePath"),
                     BaseTest.configProp.getString("chromeDriverPath"));
