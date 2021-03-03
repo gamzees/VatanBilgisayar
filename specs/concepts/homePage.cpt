@@ -1,36 +1,29 @@
-#Ana sayfa git
+#Logo Kontrolu yap
 *"logo" kontrol et
 *"2" sn. saniye bekle
 
-#Login islemini gerceklestir
+#Login islemini <email> ve <sifre> ile gerceklestir
 *"girisYap" butonuna tikla
 *"2" sn. saniye bekle
 *"girisYapAlt" butonuna tikla
 *"2" sn. saniye bekle
-*"email" alanini "gamzeetskn@gmail.com"'la doldur
-*"password" alanini "gamze1234."'la doldur
+*"email" alanini <email>'la doldur
+*"password" alanini <sifre>'la doldur
 *"2" sn. saniye bekle
 *"girisYapButon" butonuna tikla
 
-#Sepete Iphone ekle
+#<urun> ara ve listeden <item> sec
 *"1" sn. saniye bekle
-*"search" a "iphone" ara
+*"search" a <urun> ara
 *"2" sn. saniye bekle
-*"liste" icinde "iPhone 11 128 GB AKILLI TELEFON BEYAZ" sec
+*"liste" icinde <item> sec
+
+
+#<hafiza> hafiza ve <renk> renk sec
 *"2" sn. saniye bekle
-*"secenek" icinde "256 GB" sec
+*"secenek" icinde <hafiza> sec
 *"2" sn. saniye bekle
-*"secenek" icinde "Yeşil" sec
+*"secenek" icinde <renk> sec
+
+#Sepete Ekle
 *"sepeteEkle" butonuna tikla
-
-#Sepete Msi Bilgisayar ekle
-*"1" sn. saniye bekle
-*"search" a "msi" ara
-*"2" sn. saniye bekle
-*"liste" icinde "MSI GF65 CORE İ7 9750H" sec
-*"2" sn. saniye bekle
-*"sepeteEkle" butonuna tikla
-
-
-
-

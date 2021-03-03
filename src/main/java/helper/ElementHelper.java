@@ -14,6 +14,8 @@ public class ElementHelper {
             by = By.xpath(elementInfo.getValue());
         }else if (elementInfo.getType().equals("linkText")) {
             by = By.partialLinkText(elementInfo.getValue());
+        }else if (elementInfo.getType().equals("classname")) {
+            by = By.className(elementInfo.getValue());
         }
         return by;
     }
