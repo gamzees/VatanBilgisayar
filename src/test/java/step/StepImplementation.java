@@ -1,3 +1,5 @@
+package step;
+
 import com.thoughtworks.gauge.Step;
 import methods.Methods;
 
