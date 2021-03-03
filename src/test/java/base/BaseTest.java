@@ -24,7 +24,6 @@ public class BaseTest {
         logger.info("    Test Başlatıldı    ");
         logger.info("======================================");
     }
-    //gamzeeeee
 
     @BeforeScenario
     public void beforeScenario() {
