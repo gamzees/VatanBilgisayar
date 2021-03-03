@@ -1,1 +1,0 @@
-var index = {"Tags":{},"Specs":{"Vatan Bilgisayar Sitesi Senaryosu":["specs/homePage.html"]}};
