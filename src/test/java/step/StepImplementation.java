@@ -12,7 +12,7 @@ public class StepImplementation {
     {
         methods = new Methods();
     }
-    
+
     @Step("<element> kontrol et")
     public void checkElement(String key) {
         methods.checkElementisDisplayed(key);

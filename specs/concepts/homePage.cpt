@@ -12,11 +12,14 @@
 *"2" sn. saniye bekle
 *"girisYapButon" butonuna tikla
 
-#<urun> ara ve listeden <item> sec
+#<urun> ara
 *"1" sn. saniye bekle
 *"search" a <urun> ara
-*"2" sn. saniye bekle
-*"liste" icinde <item> sec
+
+#liste icinden <urun> sec
+*"1" sn. saniye bekle
+*"liste" icinde <urun> sec
+*"1" sn. saniye bekle
 
 #<hafiza> hafiza ve <renk> renk sec
 *"2" sn. saniye bekle
@@ -33,10 +36,6 @@
 *"dijital" butonuna tikla
 *"2" sn. saniye bekle
 *"canonFiltre" butonuna tikla
-*"2" sn. saniye bekle
-
-#liste icinden <urun> sec
-*"liste" icinde <urun> sec
 *"2" sn. saniye bekle
 
 #Fiyatı <altLimit> ve <ustLimit> e gore filtrele

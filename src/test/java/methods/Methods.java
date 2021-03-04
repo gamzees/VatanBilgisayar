@@ -94,7 +94,7 @@ public class Methods {
     }
 
     public void sendEnter(String key){
-       findElement(key).sendKeys(Keys.RETURN);
+        findElement(key).sendKeys(Keys.RETURN);
     }
 
     public void expectMenu(String key,String actual){
