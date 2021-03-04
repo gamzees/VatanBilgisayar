@@ -21,12 +21,14 @@ public class Methods {
     ActionMethods actionMethods;
     WebDriver driver;
     WebDriverWait wait;
+    SelectMethods selectMethods;
 
     public Methods() {
         this.driver = BaseTest.driver;
         this.jsMethods = new JsMethods();
         wait = new WebDriverWait(this.driver, 30);
         this.actionMethods = new ActionMethods(this.driver);
+        this.selectMethods = new SelectMethods(this.driver);
     }
 
     public By getBy(String key){
@@ -113,6 +115,18 @@ public class Methods {
 
     public boolean checkElementisDisplayed(String key) {
         return findElement(key).isDisplayed();
+    }
+
+    public void selectByText (String key){
+        selectMethods.selectByText(key);
+    }
+
+    public void selectByValue (String key){
+        selectMethods.selectByValue(key);
+    }
+
+    public void selectByIndex (int x){
+        selectMethods.selectByIndex(x);
     }
 
 }
