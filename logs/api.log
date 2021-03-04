@@ -12850,3 +12850,62 @@
 04-03-2021 09:21:54.554 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepete Ekle"  parameterizedStepValue:"Sepete Ekle"}}
 04-03-2021 09:21:54.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"msi\" ara ve listeden \"MSI GF65 CORE İ7 9750H\" sec"}
 04-03-2021 09:21:54.581 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} ara ve listeden {} sec"  parameterizedStepValue:"<msi> ara ve listeden <MSI GF65 CORE İ7 9750H> sec"  parameters:"msi"  parameters:"MSI GF65 CORE İ7 9750H"}}
+04-03-2021 10:38:17.029 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 10:41:01.117 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"logo\" kontrol et"}
+04-03-2021 10:41:01.117 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} kontrol et"  parameterizedStepValue:"*<logo> kontrol et"  parameters:"logo"}}
+04-03-2021 10:41:01.117 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"2\" sn. saniye bekle"}
+04-03-2021 10:41:01.117 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} sn. saniye bekle"  parameterizedStepValue:"*<2> sn. saniye bekle"  parameters:"2"}}
+04-03-2021 10:41:01.117 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"girisYap\" butonuna tikla"}
+04-03-2021 10:41:01.117 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} butonuna tikla"  parameterizedStepValue:"*<girisYap> butonuna tikla"  parameters:"girisYap"}}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"girisYapAlt\" butonuna tikla"}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} butonuna tikla"  parameterizedStepValue:"*<girisYapAlt> butonuna tikla"  parameters:"girisYapAlt"}}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"email\" alanini <email>'la doldur"}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} alanini {}'la doldur"  parameterizedStepValue:"*<email> alanini <email>'la doldur"  parameters:"email"  parameters:"email"}}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"password\" alanini <sifre>'la doldur"}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} alanini {}'la doldur"  parameterizedStepValue:"*<password> alanini <sifre>'la doldur"  parameters:"password"  parameters:"sifre"}}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"girisYapButon\" butonuna tikla"}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} butonuna tikla"  parameterizedStepValue:"*<girisYapButon> butonuna tikla"  parameters:"girisYapButon"}}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"1\" sn. saniye bekle"}
+04-03-2021 10:41:01.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} sn. saniye bekle"  parameterizedStepValue:"*<1> sn. saniye bekle"  parameters:"1"}}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"search\" a <urun> ara"}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} a {} ara"  parameterizedStepValue:"*<search> a <urun> ara"  parameters:"search"  parameters:"urun"}}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"liste\" icinde <item> sec"}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} icinde {} sec"  parameterizedStepValue:"*<liste> icinde <item> sec"  parameters:"liste"  parameters:"item"}}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"secenek\" icinde <hafiza> sec"}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} icinde {} sec"  parameterizedStepValue:"*<secenek> icinde <hafiza> sec"  parameters:"secenek"  parameters:"hafiza"}}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"secenek\" icinde <renk> sec"}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} icinde {} sec"  parameterizedStepValue:"*<secenek> icinde <renk> sec"  parameters:"secenek"  parameters:"renk"}}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"sepeteEkle\" butonuna tikla"}
+04-03-2021 10:41:01.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} butonuna tikla"  parameterizedStepValue:"*<sepeteEkle> butonuna tikla"  parameters:"sepeteEkle"}}
+04-03-2021 12:16:21.911 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs
+04-03-2021 12:16:21.912 [Gauge] [DEBUG] Found 2 files
+04-03-2021 12:16:21.913 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts
+04-03-2021 12:16:21.914 [Gauge] [DEBUG] Found 1 files
+04-03-2021 12:16:21.925 [Gauge] [INFO] Initializing concepts cache with 5 concepts
+04-03-2021 12:16:21.925 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 12:16:21.925 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 12:16:21.925 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 12:16:21.925 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 12:16:21.925 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 12:16:21.925 [Gauge] [INFO] Concept file added / modified: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 12:16:21.926 [Gauge] [INFO] Initializing specs cache with 1 specs
+04-03-2021 12:16:21.926 [Gauge] [DEBUG] Adding specs from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\homePage.spec
+04-03-2021 12:16:21.926 [Gauge] [INFO] Initializing steps cache with 2 steps
+04-03-2021 12:16:21.926 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61358
+04-03-2021 13:00:20.365 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs
+04-03-2021 13:00:20.365 [Gauge] [DEBUG] Found 2 files
+04-03-2021 13:00:20.365 [Gauge] [INFO] Watching directory: C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts
+04-03-2021 13:00:20.366 [Gauge] [DEBUG] Found 1 files
+04-03-2021 13:00:20.375 [Gauge] [INFO] Initializing concepts cache with 8 concepts
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.375 [Gauge] [DEBUG] Adding concepts from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\concepts\homePage.cpt
+04-03-2021 13:00:20.376 [Gauge] [INFO] Initializing specs cache with 1 specs
+04-03-2021 13:00:20.376 [Gauge] [DEBUG] Adding specs from C:\Users\Yusuf-Testinium\Documents\VatanBilgisayar\specs\homePage.spec
+04-03-2021 13:00:20.376 [Gauge] [INFO] Initializing steps cache with 2 steps
+04-03-2021 13:00:20.376 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62820
