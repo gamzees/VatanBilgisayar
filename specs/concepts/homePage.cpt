@@ -26,3 +26,23 @@
 
 #Sepete Ekle
 *"sepeteEkle" butonuna tikla
+
+#Fotograf menusune git
+*"fotoMenu" elemani uzerine gel
+*"2" sn. saniye bekle
+*"dijital" butonuna tikla
+*"2" sn. saniye bekle
+*"canonFiltre" butonuna tikla
+*"2" sn. saniye bekle
+
+#liste icinden <urun> sec
+*"liste" icinde <urun> sec
+*"2" sn. saniye bekle
+
+#Fiyatı <altLimit> ve <ustLimit> e gore filtrele
+*"altLimit" alanini <altLimit>'la doldur
+*"2" sn. saniye bekle
+*"ustLimit" alanini <ustLimit>'la doldur
+*"2" sn. saniye bekle
+*"filtreAra" butonuna tikla
+

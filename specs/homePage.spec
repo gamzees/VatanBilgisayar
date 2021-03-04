@@ -15,3 +15,11 @@ Msi Bilgisayar Alma
 ----------------------
 *"msi" ara ve listeden "MSI GF65 CORE İ7 9750H" sec
 *Sepete Ekle
+
+
+Fotograf Makinesi Alma
+-----------------------
+*Fotograf menusune git
+*Fiyatı "18000" ve "20000" e gore filtrele
+*liste icinden "CANON EOS R 24-105MM F4-7.1 IS STM AYNASIZ FULL FRAME FOTOĞRAF MAKİNESİ KIT" sec
+*Sepete Ekle

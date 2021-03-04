@@ -63,5 +63,35 @@
     "key": "sepetiOnayla",
     "value": "[class='icon-angle-right']",
     "type": "css"
+  },
+  {
+    "key": "fotoMenu",
+    "value": "[class='nav-first-link'][href*='fotograf']",
+    "type": "css"
+  },
+  {
+    "key": "dijital",
+    "value": "[class='dropdown-menu-list__link'][href='/fotograf-makinesi/']",
+    "type": "css"
+  },
+  {
+    "key": "canonFiltre",
+    "value": "[class='filter-list__item'] [href*='canon']",
+    "type": "css"
+  },
+  {
+    "key": "altLimit",
+    "value": "min-price",
+    "type": "id"
+  },
+  {
+    "key": "ustLimit",
+    "value": "max-price",
+    "type": "id"
+  },
+  {
+    "key": "filtreAra",
+    "value": "[class='wrapper-filter-list__price-filter-button']",
+    "type": "css"
   }
 ]

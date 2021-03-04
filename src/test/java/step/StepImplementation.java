@@ -43,4 +43,9 @@ public class StepImplementation {
     public void clickList(String key, String name) {
         methods.clickList(key, name);
     }
+
+    @Step("<fotoMenu> elemani uzerine gel")
+    public void hoverElement(String key) {
+        methods.hoverElement(key);
+    }
 }

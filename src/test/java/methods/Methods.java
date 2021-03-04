@@ -54,10 +54,6 @@ public class Methods {
         actionMethods.hoverToElement(findElement(key));
     }
 
-    public void hoverElement(WebElement element){
-        actionMethods.hoverToElement(element);
-    }
-
     public void assertText(String expect, String actual){
         Assert.assertEquals(getText(expect),actual);
     }
