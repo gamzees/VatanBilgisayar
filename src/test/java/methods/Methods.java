@@ -67,6 +67,8 @@ public class Methods {
         actionMethods.hoverToElement(getListElement(key,menuName));
     }
 
+    //selectByIndex selectByValue selectBytext jsSendKeys jsselect ekle
+
     public WebElement forListElements(String key,String menu){
 
         List<WebElement> elements = findElements(key);
