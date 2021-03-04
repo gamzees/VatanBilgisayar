@@ -28,7 +28,7 @@
 *"secenek" icinde <renk> sec
 
 #Sepete Ekle
-*"sepeteEkle" butonuna tikla
+*"sepeteEkleBtn" butonuna tikla
 
 #Fotograf menusune git
 *"fotoMenu" elemani uzerine gel
@@ -43,5 +43,5 @@
 *"2" sn. saniye bekle
 *"ustLimit" alanini <ustLimit>'la doldur
 *"2" sn. saniye bekle
-*"filtreAra" butonuna tikla
+*"fiyatAraligiAraBtn" butonuna tikla
 

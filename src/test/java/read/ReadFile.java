@@ -24,7 +24,6 @@ public class ReadFile {
 
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("hata");
         }
         return bundle;
     }
