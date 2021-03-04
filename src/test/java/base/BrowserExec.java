@@ -11,7 +11,7 @@ import java.util.ResourceBundle;
 public class BrowserExec {
 
     private static WebDriver driver;
-    private static CharSequence osString = "Mac";
+    /*private static CharSequence osString = "Mac";*/
 
     public static WebDriver getChromeDriver(String browserName) {
 
@@ -24,6 +24,19 @@ public class BrowserExec {
     }
 
     public static void selectOS(){
+
+        String os = System.getProperty("os.name").toLowerCase();
+        if (os.contains("win")){
+            System.setProperty(BaseTest.configProp.getString("chromePath"),
+                    BaseTest.configProp.getString("chromeDriverPath"));        }
+        else if (os.contains("mac")){
+            System.setProperty(BaseTest.configProp.getString("chromePath"),
+                    BaseTest.configProp.getString("chromeDriverPathMac"));        }
+        else if (os.contains("nix") || os.contains("aix") || os.contains("nux")){
+        }
+    }
+
+    /*public static void selectOS(){
 
         if (getOperatingSystem().contains(osString))
         {
@@ -39,7 +52,7 @@ public class BrowserExec {
     public static String getOperatingSystem() {
         String os = System.getProperty("os.name");
         return os;
-    }
+    }*/
 
     public static WebDriver getFirefox(String browserName) {
 
