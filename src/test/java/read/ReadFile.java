@@ -28,10 +28,4 @@ public class ReadFile {
         }
         return bundle;
     }
-
-    public void testFonk(){
-        System.out.println(System.getProperty("user.dir"));
-        System.out.println("kelime");
-
-    }
 }

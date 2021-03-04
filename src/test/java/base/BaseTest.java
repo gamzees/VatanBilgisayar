@@ -19,10 +19,7 @@ public class BaseTest {
 
     @Before
     public void beforePlan(){
-
-        logger.info("======================================");
-        logger.info("    Test Başlatıldı    ");
-        logger.info("======================================");
+        logger.info("*****Test Başlatıldı****");
     }
 
     @BeforeScenario
@@ -43,9 +40,7 @@ public class BaseTest {
 
     @After
     public void after(){
-        logger.info("======================================");
-        logger.info("    Test Bitti    ");
-        logger.info("======================================");
+        logger.info("*****Test Bitti*****");
     }
 
     @AfterScenario
