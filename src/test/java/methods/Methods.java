@@ -10,6 +10,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.ArrayList;
@@ -21,14 +22,13 @@ public class Methods {
     ActionMethods actionMethods;
     WebDriver driver;
     WebDriverWait wait;
-    SelectMethods selectMethods;
+    Select select;
 
     public Methods() {
         this.driver = BaseTest.driver;
         this.jsMethods = new JsMethods();
         wait = new WebDriverWait(this.driver, 30);
         this.actionMethods = new ActionMethods(this.driver);
-        this.selectMethods = new SelectMethods(this.driver);
     }
 
     public By getBy(String key){
@@ -117,16 +117,21 @@ public class Methods {
         return findElement(key).isDisplayed();
     }
 
-    public void selectByText (String key){
-        selectMethods.selectByText(key);
+    public void selectByText (String element, String key){
+        getSelect(element).selectByVisibleText(key);
     }
 
-    public void selectByValue (String key){
-        selectMethods.selectByValue(key);
+    public void selectByValue (String element, String key){
+        getSelect(element).selectByValue(key);
     }
 
-    public void selectByIndex (int x){
-        selectMethods.selectByIndex(x);
+    public void selectByIndex (String element, int key){
+        getSelect(element).selectByIndex(key);
     }
+
+    public Select getSelect(String element){
+        return new Select(findElement(element));
+    }
+
 
 }
