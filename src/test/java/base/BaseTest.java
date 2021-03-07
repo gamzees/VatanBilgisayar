@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import read.ReadFile;
 
 import java.util.ResourceBundle;
-
+//gamze
 public class BaseTest {
     private final Logger logger = LoggerFactory.getLogger(getClass());
     public static ResourceBundle configProp = ReadFile.readProp("Configuration");
